@@ -1,0 +1,47 @@
+title: "YukiKongJu"
+author: "YukiKongJu"
+domain: yukikongju.github.io
+url: https://yukikongju.github.io
+baseurl: ""
+description: ""
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_social: true
+show_excerpts: false # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "projects.md", title: "Projects"}
+  - {file: "blog.md", title: "Blog"}
+  - {file: "README.md", title: "About"}
+  - {file: "index.html", title: "Home"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:yukikongju@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/yukikongju"}
+    # cv
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+kramdown:
+  parse_block_html: true
+
+collections:
+  calendar:
+    output: true
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-sitemap
