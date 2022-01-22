@@ -36,6 +36,7 @@ comments:
 
 kramdown:
   parse_block_html: true
+  auto_ids: true
 
 collections:
   calendar:
