@@ -10,11 +10,18 @@ categories:
 
 
 
+[dotfiles]
+
+
+
 # Plugins
 
 - NERDTree
 - coc.nvim
 - fzf
+
+
+
 
 
 

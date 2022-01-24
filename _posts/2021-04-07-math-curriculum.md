@@ -6,7 +6,13 @@ categories:
     - curriculum
 ---
 
-# Tips for learning mathematics on your own
+# A motivation for learning maths
+
+
+
+
+
+# Tips when learning mathematics on your own
 
 Learning undergraduate maths on your own can be daunting if you don't know 
 where to start, but I found that these tips helped me tremendously.
@@ -139,7 +145,6 @@ concepts.
 ### Tip #7: Work on Speed
 
 
-
 ### Tip #8: Don't try to understand everything
 
 This tip seems like a contradiction to what I've said earlier, but it is not.
@@ -149,6 +154,12 @@ remember the proof for every theorems.
 
 Often, if you understand the concept well enough, you prove the propositions 
 and other lemmas by yourself.
+
+### Tip #9: Work on problems with number to understand the abstraction
+
+
+
+
 
 # Branches of Maths
 
@@ -213,6 +224,12 @@ and other lemmas by yourself.
 
 ### Calculus
 
+There are 3 courses required to learn calculus:
+
+- Calculus I: Differential Equations
+- Calculus II: Integrals
+- Calculus III: Multivariables Calculus
+
 I would recommend [Professor Butler](https://www.youtube.com/c/ProfessorButler/)
 lecture series on calculus. He explains the methodology and works through 
 several example. His website has a bunch of exams and quiz samples.
@@ -224,8 +241,46 @@ several example. His website has a bunch of exams and quiz samples.
 
 ### Linear Algebra
 
-- Video Lectures:
+There are two courses in Linear Algebra: 
+
+- Linear Algebra: Introduction to matrices and its properties in euclidean space
+- Advanced Linear Algebra: Linear Algebra, but with functions and matrices
+
+I really like [Nathaniel Johnston](https://www.youtube.com/user/NathanielJohnst/)
+course because it gives great insight not only on the algebraic part of linear 
+algebra, but also on the geometrical point of view, which is often missing. 
+I would also follow along with his textbooks.
+
+Another textbook that I have yet to explore but looks promising is 
+[Applied Linear Algebra - Peter Olver](https://link.springer.com/book/10.1007/978-3-319-91041-3)
+
+- [Linear Algebra - Nathaniel Johnston](http://www.njohnston.ca/publications/introduction-to-linear-and-matrix-algebra/)
+- [Advanced Linear Algebra - Nathaniel Johnston](http://www.njohnston.ca/publications/advanced-linear-and-matrix-algebra/)
 - Textbook:
+
+### Discrete Maths
+
+Unlike the name suggest, discrete maths is not about doing maths whilst 
+whispering, but rather doing maths with anything that is not about continuous 
+number. We see logic, set theory, proofs, number theory and combinatorics.
+The first course touches every subjects and is essential to take. If 
+you want to take a deeper look into each field, then you can take their 
+respective course.
+
+
+**Discrete Maths**
+
+
+**Number Theory**
+
+- Textbook: [Elementary Number Theory - Gareth Jones]
+
+
+
+**Graph Theory**
+
+
+**Combinatorics**
 
 
 
@@ -238,11 +293,19 @@ There are two courses that should be taken when learning probability:
 
 **Probability**
 
+I Think that [Werner Linde Textbook] is a great read if it is your first time 
+learning about probability, but if you want to dig into harder exercices, 
+[John Haig Textbook] is awesome. I still haven't found video lectures 
+good enough to be used.
 
-
+- Textbook: [Probability Theory - Werner Linde]
+- Textbook: [Probability Models - John Haig]
 
 **Stochastic Processes**
 
+
+- Textbook: [Understanding Markov Chains - Nicolas Privault](https://link.springer.com/content/pdf/10.1007%2F978-981-13-0659-4.pdf)
+- Exercices: [Basic Stochastic Processes - A Course Through Exercices](https://link.springer.com/book/10.1007/978-1-4471-0533-6)
 
 
 
@@ -255,20 +318,38 @@ There are 4 courses that can be taken when learning statistics:
 3. Linear Regression
 4. Theory of Machine Learning
 
-However, I think that the first two are enough.
+However, I think that the first two are enough. Additionally, I believe 
+that statistics there are 3 parts when learning statistics:
+(1) Theory (2) Practice Problems (3) Learning R
 
-
+I found that [Jeremy Balka's videos](https://www.jbstatistics.com/) on 
+statistics is a great complementary ressources to understand the meat of 
+statistics.
 
 **Introduction to Stastistics**
 
+The first course in statistics has three goals: 
+
+1. Get familiar with exploratory analysis and data visualisation
+2. Using the Central Limit Theorem to evaluate probabilities
+3. Doing Hypotheses Testing
+
+- Textbook: [A First Course in Statistical Inference - Jonathan Gillard]
 
 **Concepts and Methods in Statistics**
 
-
+- Textbook: [Mathematical Statistics and Data Analysis - John Rice]
+- Problems Set and Solutions: 
 
 **Linear Regression**
 
+[Dennis Wackerly Textbook] is really a great read. Altough it is shy of 
+1000 pages, the first 10 chapters (out of 16) is only a review of 
+concepts previously seen in 'Introduction to Statistics' and in 'Introduction 
+to Probability'
 
+- Textbook: [Mathematical Statistics with Applications - Dennis Wackerly]
+- Problems Set and Solutions: 
 
 ### Differential Equations
 
@@ -290,7 +371,95 @@ for the ODE course if they are complemented with Georges Simmons Textbook
 **Partial Differential Equations**
 
 
+### Real Analysis
 
+There are 3 courses associated with real analysis:
+
+- Analysis I: Rigourous proofs for differential calculus
+- Analysis II: Rigourous proofs for integrals calculus
+- Analysis III: Measure Theory
+
+**Analysis I**
+
+Unlike the other maths courses, analysis is usually the first pure maths 
+classes a undergrad student has to go through. Since it is the first time 
+students are exposed to a proof-based class, they are generally less 
+successful in it. Althought not a real textbook, I really like [Lara Alcock -
+How to Think About Analysis] because it gives insight about how to prove things.
+
+If you want a short and sweet textbook without all the fluffs, I think 
+that [Kenneth Ross - Elementary Analysis](https://link.springer.com/book/10.1007/978-1-4614-6271-2) is a great read. However, if it is your first contact with 
+analysis, I would suggest [Limaye - A Course in Calculus and Real Analysis](https://link.springer.com/book/10.1007/978-3-030-01400-1) or [Stephen Abott - Understanding Real Analysis](https://www.math.ucdavis.edu/~babson/MAT127B/abbott-second-edition.pdf)
+
+Since these textbooks don't have a lot of worked out exercices, I found 
+that [Aksoy - A Problem Book in Real Analysis](https://link.springer.com/book/10.1007/978-1-4419-1296-1). If you read french, [Jacques Douchet - Analyse I]
+and [Jacques Douchet - Analyse II](https://theswissbay.ch/pdf/Books/Mathematics/ebooksclub.org__analyse___recueil_d__039_exercices_et_aide_m__moire_volume_2.pdf)
+is a textbook full of worked out problems.
+
+
+- Textbook: [Stephen Abott - Understanding Real Analysis](https://www.math.ucdavis.edu/~babson/MAT127B/abbott-second-edition.pdf)
+- Textbook Solutions: [minkinty solutions to Abott](https://github.com/mikinty/Understanding-Analysis-Abbott-Solutions/blob/master/build/main.pdf)
+- Textbook Solutions: [Instructions Solutions Manual - Abott](https://vdoc.pub/download/understanding-analysis-instructors-solution-manual-1p3o1drkt49o)
+
+
+**Analysis II**
+
+
+
+**Analysis III**
+
+
+### Complex Analysis
+
+
+**Complex Numbers**
+
+
+
+**Complex Analysis**
+
+
+
+
+
+### Algebra
+
+Undergraduate algebra is all about understanding groups and ring theory and 
+is usually broken down into 3 courses:
+
+- Algebgra I:
+- Algebgra II:
+- Galois Theory:
+
+**Algebgra I**
+
+- [Lara Alcock - How to think about Abstract Algebra]
+- Textbook: [Contemporary Abstract Algebra - Joseph Gallian]
+
+**Algebgra II**
+
+
+
+**Galois Theory**
+
+
+
+### Topology
+
+
+
+
+
+
+### Financial Mathematics
+
+
+
+
+
+
+
+# More Textbooks 
 
 
 
