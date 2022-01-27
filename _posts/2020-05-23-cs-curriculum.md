@@ -142,6 +142,8 @@ source code which can be found [their website](https://algs4.cs.princeton.edu/ho
 
 Although I didn't used that book when I first started to learn about data structures, I really wished I had [Pat Morin's - Open Data Structure Book](https://opendatastructures.org/ods-java.pdf) to follow along.
 
+I also like [William Fiset's - Data Structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu), as it summarise the key elements 
+to remember.
 
 
 - Video Lectures: [Robert Sedgewick's Data Structure Course Part I](https://www.coursera.org/learn/algorithms-part1) and [Robert Sedgewick's Data Structure Course Part II](https://www.coursera.org/learn/algorithms-part2).
@@ -203,6 +205,22 @@ The course on operation research has 3 parts:
 
 **Theory of Computation**
 
+The course on Computation theory has 3 parts:
+
+- Part I: Automatas and Languages
+  + What are the closure properties of regular and context free languages
+  + How can we prove that a langage is REG/CFL or not
+- Part II: Computatibility Theory
+  + Church-Turing Thesis: lambda calculus, turing machine and while programs 
+    are equivalent
+  + How can we prove that a language is decidable/recognizable or not
+- Part III: Complexity Theory
+  + Time Complexity: What makes a problem P, NP, NP-complete
+  + Space Complexity: What makes a problem, PSPACE, PSPACE-complete, L, NL, NL-complete
+  + Intractability:
+
+
+
 I think Michael Sipser in the man when it comes to theory of computation. His 
 [MIT 18.404 - Theory of Computation](https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/index.htm)
 lectures and his book [Michael Sipser - Introduction to the Theory of Computation](https://www.mog.dog/files/SP2019/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf)
@@ -222,6 +240,21 @@ is an easy read and great to follow along.
 
 **Computer Architecture**
 
+The course on computer architecture has 5 parts:
+
+- Part I: Digital Logic
+- Part II: Assembly/MIPS Programming
+- Part III: Designing a processor with VHDL
+- Part IV: Microarchitecture and data path
+- Part V: Memory Hierarchy
+
+
+
+
+
+
+- Textbook: [Joseph D. Dumas II - Computer Architecture]
+- Textbook:
 
 
 ## Computational Science [CN]
