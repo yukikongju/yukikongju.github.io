@@ -194,18 +194,25 @@ and other lemmas by yourself.
 1. Introduction to Statistics
 2. Concepts in Statistics
 3. Linear Regression
-
-**Analysis**
-
-1. Real Analysis I
-2. Real Analysis II
-3. Real Analysis III
-4. Complex Analysis
+4. Statistical Learning
+5. Time Series
 
 **Differential Equations**
 
 1. Ordinary Differential Equations
 2. Partial Differential Equations
+3. Fourier Transforms
+
+**Real Analysis**
+
+1. Real Analysis I
+2. Real Analysis II
+3. Real Analysis III
+
+**Complex Analysis**
+
+1. Complex Numbers
+2. Complex Analysis
 
 **Algebra**
 
@@ -215,9 +222,11 @@ and other lemmas by yourself.
 **Topology**
 
 
-**Actuarial Science**
+**Differential Geometry**
 
-1. Financial Mathematics
+
+**Algebraic Geometry**
+
 
 
 # Course Contents 
@@ -279,6 +288,8 @@ respective course.
 
 **Graph Theory**
 
+- Textbook: 
+
 
 **Combinatorics**
 
@@ -339,17 +350,26 @@ The first course in statistics has three goals:
 **Concepts and Methods in Statistics**
 
 - Textbook: [Mathematical Statistics and Data Analysis - John Rice]
+- Textbook: [All of Statistics: A Concise Course in Statistical Inference - Springer]
 - Problems Set and Solutions: 
 
 **Linear Regression**
 
-[Dennis Wackerly Textbook] is really a great read. Altough it is shy of 
+[Dennis Wackerly's Mathematical Statistics Textbook] is really a great read. Altough it is shy of 
 1000 pages, the first 10 chapters (out of 16) is only a review of 
 concepts previously seen in 'Introduction to Statistics' and in 'Introduction 
 to Probability'
 
 - Textbook: [Mathematical Statistics with Applications - Dennis Wackerly]
+- Textbook: [Springer SUMS - Regression]
 - Problems Set and Solutions: 
+
+**Statistical Learning**
+
+
+
+**Time Series**
+
 
 ### Differential Equations
 
@@ -362,13 +382,24 @@ There are two courses that should be taken to learn differential equations:
 Although I really liked [Professor Butler](https://www.youtube.com/c/ProfessorButler/) calculus courses, I feel like the mathematical rigor required for different 
 equations wasn't really there. However, I still think that his 
 [Differential Equations Lectures](https://www.calc4.org/) can still be used 
-for the ODE course if they are complemented with Georges Simmons Textbook
+for the ODE course if they are complemented with Georges Simmons Textbook.
+
+Additionally, I altough it doesn't provide an in-depth explanation on the 
+theory behind ODEs, [Schaum's Differential Equations] offers a large range 
+of problem with their solutions.
+
 
 - [Professor Butler - Ordinary Differential Equations](https://www.calc4.org/)
 - Textbook: Georges Simoons - Differential Equations with Applications and Historical Notes
 - Texbook Solutions: [Georges Simmons Textbook Solutions](https://www.studocu.com/in/document/birla-institute-of-technology-and-science-pilani/differential-equation/424580021-george-f-simmons-differential-equations-with-applications-and-historical-notes-mc-graw-hill-science-1991-solutions-pdf/9247025)
+- Lecture Notes: [Gabriel Nagy - ODE](https://users.math.msu.edu/users/gnagy/teaching/ode.pdf)
 
 **Partial Differential Equations**
+
+
+**Fourier Transforms**
+
+
 
 
 ### Real Analysis
@@ -404,9 +435,15 @@ is a textbook full of worked out problems.
 
 **Analysis II**
 
+Analysis II is all about integration.
+
+
 
 
 **Analysis III**
+
+Analysis III is about metric spaces.
+
 
 
 ### Complex Analysis
@@ -414,6 +451,10 @@ is a textbook full of worked out problems.
 
 **Complex Numbers**
 
+A good problem books for Complex Numbers would be [Schaum's], as it lay out 
+all theorems to remember and has solutions for diverses problems. However, 
+this book is not complete, as it contains mostly easier problems. A better 
+problem book would be TODO.
 
 
 **Complex Analysis**
@@ -448,14 +489,12 @@ is usually broken down into 3 courses:
 
 
 
-
-
-
-### Financial Mathematics
+### Differential Geometry
 
 
 
 
+### Algebraic Geometry
 
 
 
@@ -463,7 +502,11 @@ is usually broken down into 3 courses:
 
 
 
-# Ressources
+# Inspiration
+
+The textbooks I used were inspired from [Daniel Rubin](https://www.youtube.com/watch?v=EE7KpcReYw4), [Aleph's Guide to Pure Math](https://www.youtube.com/watch?v=byNaO_zn2fI), [The Math Sorcerer Undergraduate Maths Guide](https://www.youtube.com/watch?v=pTnEG_WGd2Q&t=876s) and his [Math Major Courses Guide](https://www.youtube.com/watch?v=ljdUHWVg2AY&t=411s), [Arongil's Map of Maths](https://www.youtube.com/watch?v=lapgPfFAgr4) and [CHALK's - What comes after calculus](https://www.youtube.com/watch?v=fG7ZKdKTo6E)
+
+
 
 
 

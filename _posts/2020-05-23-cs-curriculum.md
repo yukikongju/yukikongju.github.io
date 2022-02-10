@@ -155,6 +155,8 @@ to remember.
 
 The course on algorithms is about the techniques that can be employed to 
 solve algorithms and the theorems we can use to evaluate their time complexity.
+This is probably the most important course you should take because companies 
+will usually test your algorithms and problem solving skills.
 
 - Time Complexity Evaluation: 
   + Asymptotic theorems for Big O, Big Omega and Big Theta 
@@ -188,6 +190,11 @@ Google search.
 - Video Lectures: [Tim Roughgarden - Algorithms Illuminated](http://www.algorithmsilluminated.org/)
 - Textbook:
 - Exams and Homeworks: [Jeff Erickson - Exams](http://jeffe.cs.illinois.edu/teaching/algorithms/hwex.html)
+I would also recommend using doing some Leetcode questions to get familiar 
+with some common problems solving problems, which can be found at 
+[Grokking the coding interview](https://www.educative.io/courses/grokking-the-coding-interview). To get better at problems solving, I would suggest choosing 
+one pattern at a time and find a bunch of suggested problems with their 
+solutions (use youtube, google, ...).
 
 **Operation Research**
 
@@ -199,8 +206,6 @@ The course on operation research has 3 parts:
   solving with hungarian algorithm
 - Part 3: Solving deterministic and probabilistic problems with dynamic 
   programming
-
-
 
 
 **Theory of Computation**
@@ -248,13 +253,9 @@ The course on computer architecture has 5 parts:
 - Part IV: Microarchitecture and data path
 - Part V: Memory Hierarchy
 
-
-
-
-
-
 - Textbook: [Joseph D. Dumas II - Computer Architecture]
 - Textbook:
+- Video Lectures: 
 
 
 ## Computational Science [CN]
@@ -285,7 +286,7 @@ The course on computer architecture has 5 parts:
 
 
 
-
+- Video Lectures: 
 
 
 **Advanced Databases Systems**
@@ -307,7 +308,19 @@ The course on computer architecture has 5 parts:
 
 **Web Development**
 
+The most common framework used for web development is probably React, which 
+is based on javascript.
 
+- [Full Stack Open](https://fullstackopen.com/)
+
+
+**Game Development**
+
+One of the biggest game engine for game development is Unity, so you first 
+have to learn C#.
+
+- Unity Tutorial
+- C# Tutorial
 
 
 
@@ -341,6 +354,10 @@ The course on computer architecture has 5 parts:
 
 **Compilers and Interpreters**
 
+
+- Textbook: [Compilers - Principles, Techniques and Tools by Alfred Aho]
+- Video Lectures: [Compiler Course - Nicolas Laurent](https://www.youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM)
+- Coding Compilers: [Building a Compiler - Immo Landwerth](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
 
 
 
