@@ -386,8 +386,7 @@ for the ODE course if they are complemented with Georges Simmons Textbook.
 
 Additionally, I altough it doesn't provide an in-depth explanation on the 
 theory behind ODEs, [Schaum's Differential Equations] offers a large range 
-of problem with their solutions.
-
+of problem with their solutions. I also like [math24.net](https://math24.net/topics-differential-equations.html) for quick sneek peaks and examples.
 
 - [Professor Butler - Ordinary Differential Equations](https://www.calc4.org/)
 - Textbook: Georges Simoons - Differential Equations with Applications and Historical Notes
@@ -496,6 +495,9 @@ is usually broken down into 3 courses:
 
 ### Algebraic Geometry
 
+
+
+### Logic
 
 
 # More Textbooks 

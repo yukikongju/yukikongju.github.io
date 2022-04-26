@@ -365,6 +365,35 @@ have to learn C#.
 ## Software Engineering [SE]
 
 
+# More Fields
+
+
+## Quantum Computing
+
+I was fortunate enough to be taught by Gilles Brassard, one of the most 
+influential researcher in Quantum Computing. His book, [Quantum Informatics 
+for Computer Scientist], takes a more theoritical view on the subject, but 
+really present the material in a comprehensive way, without jumping into 
+all the maths first. The book contains only a few exercices with no solutions, 
+so I would suggest using __________ for solutions
+
+
+## Bioinformatics
+
+I have first explored the field of bioinformatics during the first wave of 
+the pandemic.
+
+
+- Video Series: [Simon Cockell - Bioinformatics Code Along](https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9)
+- Coding Exercices: [ROSALIND](https://rosalind.info/problems/list-view/)
+
+## Finance
+
+
+## Game Development
+
+
+
 # Ressources
 
 
