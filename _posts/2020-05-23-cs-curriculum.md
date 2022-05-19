@@ -71,6 +71,16 @@ if you didn't apply it to a project.
 1. Introduction to Databases
 2. Advanced Databases Systems
 
+**Intelligent Systems [IS]**
+
+1. Machine Learning
+2. Deep Learning
+3. Computer Vision
+4. Natural Language Processing
+5. Reinforcement Learning
+
+
+
 **Networking and Communication [NC]**
 
 1. Network and Communications
@@ -190,6 +200,8 @@ Google search.
 - Video Lectures: [Tim Roughgarden - Algorithms Illuminated](http://www.algorithmsilluminated.org/)
 - Textbook:
 - Exams and Homeworks: [Jeff Erickson - Exams](http://jeffe.cs.illinois.edu/teaching/algorithms/hwex.html)
+- LeetCode: [Top 75 currated List](https://neetcode.io/)
+
 I would also recommend using doing some Leetcode questions to get familiar 
 with some common problems solving problems, which can be found at 
 [Grokking the coding interview](https://www.educative.io/courses/grokking-the-coding-interview). To get better at problems solving, I would suggest choosing 
@@ -292,6 +304,30 @@ The course on computer architecture has 5 parts:
 **Advanced Databases Systems**
 
 
+## Intelligent Systems [IS]
+
+**Machine Learning**
+
+
+
+**Deep Learning**
+
+
+- Book: [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville]
+
+
+
+**Computer Vision**
+
+
+
+**Natural Language Processing**
+
+
+
+
+**Reinforcement Learning**
+
 
 
 
@@ -385,9 +421,16 @@ the pandemic.
 
 
 - Video Series: [Simon Cockell - Bioinformatics Code Along](https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9)
+- Book Series: [Bioinformatics Algorithms - An Active Learning Approach Vol I-IV by Phillip Compeau & Pavel Pevzner](https://www.bioinformaticsalgorithms.org/)
+- Reddit Link: [Ressources for learning bioinformatics](https://www.reddit.com/r/bioinformatics/comments/191ykr/resources_for_learning_bioinformatics/)
 - Coding Exercices: [ROSALIND](https://rosalind.info/problems/list-view/)
 
 ## Finance
+
+
+
+
+
 
 
 ## Game Development

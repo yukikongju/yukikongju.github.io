@@ -487,6 +487,10 @@ is usually broken down into 3 courses:
 ### Topology
 
 
+- Video Series: [Marius Furter - Topology](https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0)
+- Lecture Notes: [UofT - MAT 327: Topology by Ivan](https://ctrl-c.club/~ivan/327/?resources)
+
+
 
 ### Differential Geometry
 
