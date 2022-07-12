@@ -88,6 +88,7 @@ sentevent -E STARTJOB -J JOBNAME
 - [sentevent commands](https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/autosys-workload-automation/12-0-01/reference/ae-commands/control-workload/sendevent-command-change-the-executable-status-of-a-job.html)
 - [How to write JIL file](https://autosys-tutorial-beginner.blogspot.com/2015/09/chapter-2-working-with-jil.html)
 - [Autosys commands](https://www.techndata.com/useful-autosys-commands/)
+- [Cron Tutorial](https://www.youtube.com/watch?v=EgrpfvBc7ks)
 
 
 
