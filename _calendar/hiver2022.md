@@ -1,9 +1,11 @@
 ---
-title: "Hiver 2022"
+title: "Winter 2022"
 layout: post 
 ---
 
-- STT 2400: Régression Linéaire (dropped)
+# School
+
+- STT 2400: Régression Linéaire 
 - STT 2700: Concepts et méthodes en statistiques
 - MAT 2155: Équations Différentielles
 - IFT 2905: Interface Humain-Machine
@@ -11,5 +13,3 @@ layout: post
 
 I am currently TA for the course IFT 1227 - Computer Architecture
 
-
-# Session Overview
