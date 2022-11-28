@@ -35,5 +35,5 @@ I am also TA for two classes this sessions:
 
 # What I did previously
 
-{% include _includes/calendar.html %}
 
+{% include_relative _includes/calendar.html %}
