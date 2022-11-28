@@ -1,5 +1,5 @@
-title: "YukiKongJu"
-author: "YukiKongJu"
+title: ""
+author: "Emulie Chhor"
 domain: yukikongju.github.io
 url: https://yukikongju.github.io
 baseurl: ""
@@ -17,6 +17,14 @@ show_frame: false           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
+# Pagination
+
+paginate: 5
+pagination: 
+  - paginate: 
+      path: /blog/page:num/
+      per_page: 2
+
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
@@ -24,7 +32,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", title: "About"}
   - {file: "blog.md", title: "Blog"}
   - {file: "projects.md", title: "Projects"}
-  # - {file: "archive.html", title: "Archive"}
+  # - {file: "miscellaneous.md", title: "Miscellaneous"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yukikongju@users.noreply.github.com"}

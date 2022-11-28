@@ -1,12 +1,39 @@
+<!-- Paginated Posts -->
 <article>
+  <style type="text/css" media="screen">
+	.no-bullets {
+	    list-style-type: none;
+	}
+  </style>
   <header><h1>{{ include.title | default: page.title }}</h1></header>
   <ul class="archive">
     {% for post in site.posts %}
-    <li>
+    <li class="no-bullets">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
       >>
       <b> <a href="{{ post.url | relative_url }}"> &nbsp; {{ post.title }} </a> </b>
+      <br>
     </li>
     {% endfor %}
   </ul>
 </article>
+
+<!-- TODO: Pagination links -->
+<!-- <div class="pagination"> -->
+<!--   {% if paginator.previous_page %} -->
+<!--     <a href="{{ paginator.previous_page_path }}" class="previous"> -->
+<!--       Previous -->
+<!--     </a> -->
+<!--   {% else %} -->
+<!--     <span class="previous">Previous</span> -->
+<!--   {% endif %} -->
+<!--   <span class="page_number "> -->
+<!--     Page: {{ paginator.page }} of {{ paginator.total_pages }} -->
+<!--   </span> -->
+<!--   {% if paginator.next_page %} -->
+<!--     <a href="{{ paginator.next_page_path }}" class="next">Next</a> -->
+<!--   {% else %} -->
+<!--     <span class="next ">Next</span> -->
+<!--   {% endif %} -->
+<!-- </div> -->
+
