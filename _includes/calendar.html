@@ -1,0 +1,7 @@
+  <ul class="calendar">
+    {% for post in site.calendar reversed %}
+      >>
+      <b> <a href="{{ post.url | relative_url }}"> &nbsp; {{ post.title }} </a> </b>
+      <br>
+    {% endfor %}
+  </ul>

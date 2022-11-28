@@ -1,6 +1,7 @@
 ---
 title: "Winter 2022"
 layout: post 
+date: 2022-03-02
 ---
 
 # School

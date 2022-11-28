@@ -1,6 +1,7 @@
 ---
 title: "Autumn 2020"
 layout: post 
+date: 2020-10-20
 ---
 
 # School

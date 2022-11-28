@@ -35,10 +35,5 @@ I am also TA for two classes this sessions:
 
 # What I did previously
 
-- **[Summer 2022]({% link _calendar/ete2022.md %})**
-- **[Winter 2022]({% link _calendar/hiver2022.md %})**
-- **[Autumn 2021]({% link _calendar/automne2021.md %})**
-- **[Summer 2021]({% link _calendar/ete2021.md %})**
-- **[Winter 2021]({% link _calendar/hiver2021.md %})**
-- **[Autumn 2020]({% link _calendar/automne2020.md %})**
+{% include _includes/calendar.html %}
 
