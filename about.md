@@ -47,7 +47,7 @@ Some cool ressources I used to learn:
 - [Reinforcement Learning Ressources](https://github.com/dennybritz/reinforcement-learning)
 - [Practical RL](https://github.com/yandexdataschool/Practical_RL)
 - [DL Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)
-- [UC San Diego BIMM 143: Bioniformatics](https://bioboot.github.io/bimm143_F18/lectures/)
+- [UC San Diego BIMM 143: Bioiformatics](https://bioboot.github.io/bimm143_F18/lectures/)
 - [Solutions to Sipser Theory of Computation](https://github.com/gaurangsaini/sipser-computation-3rd-solutions)
 - [Natural Language Processing](https://github.com/yandexdataschool/nlp_course)
 

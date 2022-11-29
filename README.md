@@ -10,7 +10,8 @@ How to run the website locally: `bundle exec jekyll serve `
 - we can nest pages inside each other by using `{{% include_relative <filename> %}}`
     * Ex: 
 - we can add plugins 
-    * [Example](https://shivabhusal.github.io/jekyll-paginator/)
+    * [Pagination](https://shivabhusal.github.io/jekyll-paginator/)
+	+ Edge case with one page. Add it once we have more posts
 
 
 

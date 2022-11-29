@@ -55,3 +55,4 @@ collections:
 plugins:
  - jekyll-feed
  - jekyll-sitemap
+ - jekyll-paginator
