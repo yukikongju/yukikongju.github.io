@@ -12,20 +12,26 @@ How to run the website locally: `bundle exec jekyll serve `
 - we can add plugins 
     * [Pagination](https://shivabhusal.github.io/jekyll-paginator/)
 	+ Edge case with one page. Add it once we have more posts
+	+ Note: `jekyll-paginate-v2` supports pagination outside `index.html` 
+	  file but is not supported by github pages
 
+- to add more projects to the `projects.md` page, go to `_data/projects.yml`
 
 
 
 # ToDos
 
-- [ ] Add next pages to blog post
+- [ ] Add pagination with `jekyll-paginate`
 - [ ] Filter posts by date and tags
 - [ ] Finish About Me for each sessions (Autumn 2021)
-- [ ] Add pagination with `jekyll-paginate`
+- [X] render projects from `_data/projects` instead of manually
 
 
 ## Ressources
 
 - [Gravity Template](https://github.com/hemangsk/Gravity)
 - [Pagination in jekyll](https://chrisphillips-cminion.github.io/jekyll/2019/06/26/JekyllPagination.html)
+- [Creating tag pages](https://anavarre.net/rebuilding-my-blog-with-jekyll/)
+- [Creating menu and subsections](https://www.freecodecamp.org/news/hugo-vs-jekyll-battle-of-static-site-generator-themes/)
+- [datafiles and subfolders](https://jekyllrb.com/docs/datafiles/)
 
