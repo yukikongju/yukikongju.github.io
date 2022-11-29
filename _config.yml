@@ -20,6 +20,7 @@ minimal: true             # use a dark header
 # Pagination
 
 paginate: 7
+# paginate_path: "/blog/page:num/"
 paginate_path: "/page:num/"
 
 # Menu

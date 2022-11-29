@@ -5,4 +5,5 @@ group :jekyll_plugins do
   gem "jekyll", "~> 4.2.0"
   gem 'jekyll-sitemap'
   gem 'jekyll-paginate'
+  # gem 'jekyll-paginator'
 end

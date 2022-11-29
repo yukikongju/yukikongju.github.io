@@ -28,4 +28,5 @@ How to run the website locally: `bundle exec jekyll serve `
 
 - [Gravity Template](https://github.com/hemangsk/Gravity)
 - [Pagination in jekyll](https://chrisphillips-cminion.github.io/jekyll/2019/06/26/JekyllPagination.html)
+- [Creating tag pages](https://anavarre.net/rebuilding-my-blog-with-jekyll/)
 
