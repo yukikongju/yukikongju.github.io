@@ -4,10 +4,13 @@
 	.no-bullets {
 	    list-style-type: none;
 	}
+	.center {
+	    text-align: center;
+	}
   </style>
   <header><h1>{{ include.title | default: page.title }}</h1></header>
   <ul class="archive">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <li class="no-bullets">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
       >>
@@ -16,24 +19,29 @@
     </li>
     {% endfor %}
   </ul>
-</article>
 
 <!-- TODO: Pagination links -->
-<!-- <div class="pagination"> -->
-<!--   {% if paginator.previous_page %} -->
-<!--     <a href="{{ paginator.previous_page_path }}" class="previous"> -->
-<!--       Previous -->
-<!--     </a> -->
-<!--   {% else %} -->
-<!--     <span class="previous">Previous</span> -->
-<!--   {% endif %} -->
-<!--   <span class="page_number "> -->
-<!--     Page: {{ paginator.page }} of {{ paginator.total_pages }} -->
-<!--   </span> -->
-<!--   {% if paginator.next_page %} -->
-<!--     <a href="{{ paginator.next_page_path }}" class="next">Next</a> -->
-<!--   {% else %} -->
-<!--     <span class="next ">Next</span> -->
-<!--   {% endif %} -->
-<!-- </div> -->
+{% if paginator.total_pages > 1 %}
+    <div class="center"> <!-- prev: class="pagination" -->
+      {% if paginator.previous_page %}
+	<b> <a href="{{ paginator.previous_page_path }}" class="previous"> << Previous </a> </b>
+	&ensp;
+      {% else %}
+	<span class="previous"></span>
+      {% endif %}
+      <span class="page_number ">
+
+	Page: {{ paginator.page }} of {{ paginator.total_pages }}
+
+      </span>
+      {% if paginator.next_page %}
+	&ensp;
+	<b> <a href="{{ paginator.next_page_path }}" class="next">Next >> </a> </b>
+      {% else %}
+	<span class="next "></span>
+      {% endif %}
+    </div>
+{% endif %}
+
+</article>
 

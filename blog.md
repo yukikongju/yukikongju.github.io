@@ -1,6 +1,6 @@
 ---
-layout: default
-title: My Blog
+layout: page
+title: Blog
 ---
 
 {% if site.show_excerpts %}
@@ -8,3 +8,4 @@ title: My Blog
 {% else %}
   {% include archive.html title="Blog Posts" %}
 {% endif %}
+

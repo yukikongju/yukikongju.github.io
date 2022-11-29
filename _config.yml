@@ -19,11 +19,8 @@ minimal: true             # use a dark header
 
 # Pagination
 
-paginate: 5
-pagination: 
-  - paginate: 
-      path: /blog/page:num/
-      per_page: 2
+paginate: 7
+paginate_path: "/page:num/"
 
 # Menu
 
@@ -55,4 +52,5 @@ collections:
 plugins:
  - jekyll-feed
  - jekyll-sitemap
- - jekyll-paginator
+ - jekyll-paginate
+
