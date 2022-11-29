@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 layout: page
+permalink: "/projects/"
 ---
 
 You might be interested in some of the projects I did previously...
