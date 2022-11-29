@@ -21,9 +21,11 @@ How to run the website locally: `bundle exec jekyll serve `
 - [ ] Add next pages to blog post
 - [ ] Filter posts by date and tags
 - [ ] Finish About Me for each sessions (Autumn 2021)
+- [ ] Add pagination with `jekyll-paginate`
 
 
 ## Ressources
 
 - [Gravity Template](https://github.com/hemangsk/Gravity)
+- [Pagination in jekyll](https://chrisphillips-cminion.github.io/jekyll/2019/06/26/JekyllPagination.html)
 
