@@ -4,6 +4,8 @@ How to run the website locally: `bundle exec jekyll serve `
 
 ## How the site is built
 
+Read [this](https://jekyllrb.com/docs/structure/)
+
 - we can create new page using on of the templates inside `_layouts/`
 - we can access directory file with `{{ site.<directory> }}`
     * Ex: for `_posts`, we would have `{{ site.posts }}`
@@ -22,8 +24,9 @@ How to run the website locally: `bundle exec jekyll serve `
 # ToDos
 
 - [ ] Add pagination with `jekyll-paginate`
-- [ ] Filter posts by date and tags
-- [ ] Finish About Me for each sessions (Autumn 2021)
+- [ ] Filter posts by date
+- [ ] filter posts by tags using `jekyll-tagging`
+- [X] Finish About Me for each sessions (Autumn 2021)
 - [X] render projects from `_data/projects` instead of manually
 
 
@@ -34,4 +37,5 @@ How to run the website locally: `bundle exec jekyll serve `
 - [Creating tag pages](https://anavarre.net/rebuilding-my-blog-with-jekyll/)
 - [Creating menu and subsections](https://www.freecodecamp.org/news/hugo-vs-jekyll-battle-of-static-site-generator-themes/)
 - [datafiles and subfolders](https://jekyllrb.com/docs/datafiles/)
+- [Collections](https://ben.balter.com/2015/02/20/jekyll-collections/)
 

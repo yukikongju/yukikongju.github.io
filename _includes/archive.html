@@ -10,7 +10,7 @@
     {% for post in site.posts %}
     <li class="no-bullets">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-      >>
+	»
       <b> <a href="{{ post.url | relative_url }}"> &nbsp; {{ post.title }} </a> </b>
       <br>
     </li>
