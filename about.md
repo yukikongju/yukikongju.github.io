@@ -6,8 +6,8 @@ layout: page
 
 My name is Emulie and I am currently studying in computer science and mathematics
 at Université de Montréal. My principal interest is the application of data
-science and machine learning in robotics and sports. I also love to automatize 
-stuffs!
+science and machine learning in computer vision, nlp, robotics and sports. 
+I also enjoy to automating stuffs!
 
 # Currently Studying
 
