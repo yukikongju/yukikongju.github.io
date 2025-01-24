@@ -16,7 +16,7 @@ I am also doing my master at MILA.
 
 Outside of work, I am an avid fan of sports. I am currently playing ultimate 
 frisbee competitively and I used to play university-level badminton 
-for the Carabins. 
+for the Carabins!
 
 # Currently Learning
 
