@@ -4,7 +4,7 @@ layout: post
 date: 2021-10-23
 ---
 
-## School
+# School
 
 I took the following classes this semester:
 
@@ -29,12 +29,25 @@ using greedy, divide-and-conquer, dynamic programmingbacktracking and even
 probabilistic patterns, which was something I neved heard before taking that 
 class. One of the most useful class I have taken.
 
+The theory of computation class was awesome! We learned about automaton and 
+what makes a programming language complete or not. We learned about the 
+Church-Turing Thesis, the Cook-Levin Theorem, the Chomsky Hierarchy and the 
+famous halting problem.
+
+I pretty much knew everything that was thought in the data science class since 
+I've read quite a few books on data science during my CEGEP years, but I still 
+learned okay theorems.
 
 I was also lucky to land my first TA job for the class IFT 1215 - Systèmes Informatiques!
 
-## Takeaways
+# Extracurriculars
 
-I spend most of my time either studying or training, not going out much. My 
-grades were good and my badminton was fine, but I still felt like something 
-was missing...
+- Badminton Carabins
+
+# Takeaways
+
+Although my grades were good, I am a bit unhappy with the way this session went 
+because I spent all of my time either studying or training. I didn't take 
+the time to see friends, get involved in student life and meet new people, which 
+are things I wanted to do a uni.
 

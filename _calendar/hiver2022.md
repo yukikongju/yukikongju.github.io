@@ -23,12 +23,16 @@ around these estimates and perform parametric and non-parametric tests.
 
 I was also currently TA for the course IFT 1227 - Computer Architecture
 
+# Highlights
+
+- Won Badminton Canadian championship!
 
 ## Takeaways
 
 I felt overworked all session long and since I got covid, I missed twos weeks 
-of class and all of my midterms. I didn't have my enthusiasm anymore. Instead, 
-I was spending all of my time at the gym and playing badminton. I got great 
-results, but felt like sacrificing my mental health for grades and work wasn't
-worth it.
+of class and all of my midterms. Again, I was spending all of my time at the 
+gym and playing badminton. I got great results, but felt like sacrificing my 
+mental health for grades and work wasn't worth it. I feel like if I keep going, 
+I am going to burn out.
+
 

@@ -25,16 +25,33 @@ linear transformation, ...)
 for mathematical object other than eudlidean vectors, namely polynomials and 
 complex numbers. We also also learned to use basis to change our coordinate 
 system, something we hadn't done in cegep. We also expanded our knowledge on 
-orthogonal projection and diagonalization.
+orthogonal projection and diagonalization. This was one of the first 
+proof-based class I did, which I quite enjoyed.
 
 The intro to statistics class was a pretty easy class. For the 
 whole semester, we pretty much assumed that we knew the population parameters, 
-thing that we don't in real life. We ask questions such as 
+something that is unrealistic in real life. We ask questions such as 
 "how lucky am I to get a sample of mean mu and variance sigma knowing the 
 population parameters" or "how confident am I that the true answer resides 
-inside given values".
+inside given values". It helped me have a better grasp of how p-value works 
+and how p-hacking can occurs, which are concepts I still use to this day 
+when I read academic papers.
 
-Because of covid, I wasn't really involved in clubs or anything. We still had 
-badminton practices, but with all the tournaments canceled, it was kind of 
-hard to keep the moral up...
+# Extracurriculars
+
+Because of covid, the department didn't allow us to gather, so I couldn't 
+get involved in clubs. Fortunately, I was still able to train with the Carabins 
+since we were a "competitive athletes". I was still able to train around 20 
+hours a week, but with all the tournaments cancelled, 
+it was harder to keep the intensity up. Still, I am grateful for that opportunity 
+because I got to learn to adapt my training under constraints. We were not able 
+to do "multi-birds" or be closer than 3 meters away, so we focussed a lot on 
+continuous drills and singles, which are not my forte.
+
+# Takeaways
+
+I have come to realize that there are things that I take for granted 
+(the ability to go outside, meetup with friends and family, do sports) and 
+I want to be more mindful and grateful of what I have.
+
 
